@@ -1,0 +1,4 @@
+-  Almacenmiento de archivos de alto rendimiento y escalabre High Performance Computing (HPC)
+- lustre dervida de linux y cluster
+- Machine Lerning analis procesamiento de video modelado financiero
+- Escala hasta 100s GB/s millones de IOPS latencias sub-ms

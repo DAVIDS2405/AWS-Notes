@@ -1,0 +1,1 @@
+- Equilibradores de carga son servidores que renvian el trafico de internet a multiples servidores EC2 en sentido descendente

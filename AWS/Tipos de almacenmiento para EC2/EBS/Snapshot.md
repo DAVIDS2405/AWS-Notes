@@ -1,0 +1,5 @@
+- hacer copias de seguridad
+- se pueden copiar entre regiones 
+- se mueve a nivel de archivo 75% mas barato
+- restauración tarda entre 24 a 72 h
+- Se puede configurar la papelera de snapshot se pude hacer retención de datos entre 1 dial a un año

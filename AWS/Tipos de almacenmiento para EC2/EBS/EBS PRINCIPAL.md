@@ -1,0 +1,18 @@
+- Persistencia de datos
+- Unidad de red
+- Los datos se almacenan en ebs
+- solo se puede hacer con una sola instancia a la vez
+- 30gb de almacenamiento gratis
+- Puede haber un poco de latencia
+- se puede separar de una instancia y ponerla en otra
+- Bloqueado por zona de disponibilidad AZ
+- se traslada con snapshots
+-  Se factura  toda la capacidad
+- puede aumentar con el tiempo
+- borrar al terminar
+- se controla el ebs cuando una instancia ec2
+- por defecto se elimina el raíz (atributo habilitado)
+- por defecto otro ebs adjunto no se elimina (atributo deshabilitado)
+	- preserva el volumen root cuando termina la instancia
+- se puede controlar con la consola de AWS
+- 

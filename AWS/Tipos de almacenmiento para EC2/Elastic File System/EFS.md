@@ -1,0 +1,13 @@
+- se montar hasta en 100 EC2s
+- funciona con instancias EC2 de linux multi A-Z (Amazon Zone)
+- alta disponibilidad escalable caro pago por uso sin planificacion de capacidad
+- EBS VS EFS
+	- se necesita un snapshot para utilizar ebs en otra zona
+	- no se neceista un snapshot para utilizar EFS
+- EFS Infrequient Access (EFS-IA)
+	- clase de almacenamiento optimizado para archivos a los que no se acceden diario
+	- 92% menos de coste en comparacion con EFS santdard
+	- EFS movera autimaticamente tus archivos a EFS-IA basandose en la ultima vez que se accedio a  ellos
+	- habilita EFS-IA con una politica de ciclo de vida (lifecycle Policy)
+		- Se moveran los archivos que no se han accedido durante 60 dias
+	- transparente para las aplicaciones que acceden a EFS

@@ -1,0 +1,5 @@
+- Infraestructura
+- Replicacion de datos EBS y unidades EFs
+- Sustitucion de hardware defectuoso
+- Asugura que los empleados no accedan  a tus datos
+- 

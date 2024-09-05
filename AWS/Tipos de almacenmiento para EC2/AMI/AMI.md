@@ -1,0 +1,12 @@
+- Personalizacion de una instancia EC2
+	- Añades tu propio software configuracion, etc
+	- mas rapido ya que todo esta empaquedato
+- se contruyen en una region especifica se pueden copiar entre regiones
+- lanzar instancias ec2
+	- publicas: de aws
+	- propias: creadas y mantenidad por ti
+	- marketplace: ami echa por otra personal (y potencialmente vendida)
+- se crea una instancia ec2 completa para personalizarla (manual)
+- detener la instancia una vez personalizada
+- construir una ami esta igual crea snapshots de ebs
+- lanzar instancias desde otras amis
